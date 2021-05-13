@@ -1,17 +1,16 @@
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![GitHub contributors](https://img.shields.io/github/contributors/fsystem88/brutPMA.svg)](https://GitHub.com/fsystem88/brutPMA/graphs/contributors/) ![repo-size](https://img.shields.io/github/repo-size/fsystem88/brutPMA)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![GitHub contributors](https://img.shields.io/github/contributors/fsystem88/brutePMA.svg)](https://GitHub.com/fsystem88/brutePMA/graphs/contributors/) ![repo-size](https://img.shields.io/github/repo-size/fsystem88/brutePMA)
 
-# brutPMA
+# brutePMA
 Brutforce PhpMyAdmin 
 
-# Обязательно подпишитесь на канал в телеграме, там может решаться дальнейшая судьба проекта или очень важная информация!!!
-<br><b>---> <a href="https://t.me/FS88ch">Канал в Telegram</a> <---</b><br>
+# ---> <a href="https://t.me/FS88ch">Канал в Telegram</a> <---
 
 # Установка
     apt update && apt upgrade -y
     apt install git python3 python3-pip -y
-    git clone https://github.com/FSystem88/brutPMA
-    cd brutPMA
+    git clone https://github.com/FSystem88/brutePMA
+    cd brutePMA
     python3 -m pip install -r req.txt
 
 # Запуск
@@ -42,7 +41,7 @@ Example:
 
 
 # Обновить
-    cd ~/brutPMA/ && git pull
+    cd ~/brutePMA/ && git pull
 
 # Приму в дар деньги на пиво! :))
 <i>в любой валюте))</i><br>
