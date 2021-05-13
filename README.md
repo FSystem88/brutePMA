@@ -34,11 +34,13 @@ Brutforce PhpMyAdmin
                             The number of threads with which the program will
                             start working. The number of streams should not exceed
                             the number of passwords in your password list.
-Example:
+**Example:**
 
     python3 main.py -t https://example/phpmyadmin/ -u phpmyadmin -p ../passwords.txt -r 100
 
+***Словари для брутфорса можно найти как в интернете, так и у меня на [Яндекс Диске](https://disk.yandex.ru/d/thBvec7hj3x6KA?w=1).***
 
+***PSы: hashkiller-dict.7z самый большой, о нём я [написал в своём ТГ канале](https://t.me/FS88ch/307).***
 
 # Обновить
     cd ~/brutePMA/ && git pull
